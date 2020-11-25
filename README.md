@@ -1,1 +1,2 @@
 # Identify_Customer_Segments
+This is the third project of iMLN at Udacity. The objective of this project is to use data provided by AZ Direct and Arvato Financial Solutions for identifying relationships between demographics features, and understand these relationships in the context of customer segments. For that, I used k-mean clustering techniques and principal component analysis. The implementation is included in the Jupyter notebook provided and HTML.
